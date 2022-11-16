@@ -22,10 +22,13 @@
   },
   "homepage": "https://github.com/AndresR1010/12-Employee-Tracker#readme",
   "dependencies": {
-    "chalk": "^5.1.2",
+    "chalk": "^4.1.2",
+    "console.table": "^0.10.0",
     "dotenv": "^16.0.3",
     "inquirer": "^8.2.4",
-    "mysql2": "^2.3.3"
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "seed": "^0.4.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
