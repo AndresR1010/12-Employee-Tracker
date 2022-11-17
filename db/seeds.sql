@@ -10,7 +10,7 @@ VALUES ("Engineering Lead", 150000, 1),
 
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
-VALUES ("Miller", 1, NULL),
+VALUES ("Miller", "Rosales", 1, NULL),
 ("Ryan", "Caprazo", 2, 1),
 ("Horvath", "Reiben", 2, 1),
 ("Melish", "Jackson", 3, NULL),
